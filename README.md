@@ -1,5 +1,5 @@
 ### Hi there 👋
- My name is Jack and I am a junior at The University of Oklahoma - Norman double majoring in Management Information Systems with a software development concentration, and Energy Management. I am currently working in a software developer intern position at Lease Analytics LLC where I create full-stack web apps for management and administration. On the side I am currently working on projects that target the energy and public safety industries. 
+ My name is Jack and I am a junior at The University of Oklahoma - Norman double majoring in Management Information Systems with a software development concentration, and Energy Management. I am currently working in a software developer intern position at Lease Analytics LLC where I create full-stack web apps for management and administration, including third party app integration, like Jira. On the side I am currently working on projects that target the energy and public safety industries. 
 <!--
 **jackfpaylor/jackfpaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
